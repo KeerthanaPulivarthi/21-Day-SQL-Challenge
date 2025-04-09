@@ -1,12 +1,12 @@
 # 21_Days_SQL_Challenge
 ## 📅 Week 1 - Day 1: Introduction to Databases & SQL
 
-### Database :
+🔥 Database :
 A database is a structured collection of data that can be easily accessed, managed, and updated. It stores data in a way that makes it easy to retrieve and manipulate.
 - Relational databases store data in tables (rows and columns).
 Examples: MySQL, PostgreSQL, SQLite, Oracle, SQL Server.
 
-### Types of Databases :
+📌 Types of Databases :
 1. Relational Databases (RDBMS) :Store data in tables (rows & columns).
 - Use SQL for querying and managing data.
 Examples: MySQL, PostgreSQL, SQLite, Oracle, SQL Server
@@ -26,7 +26,7 @@ Examples: InfluxDB, TimescaleDB
 5. Object-Oriented Databases :Store data as objects, like in object-oriented programming.
 Less common but used in specific applications.
 
-##SQL :
+🔥SQL :
 SQL (Structured Query Language) is the language used to communicate with relational databases.
 You use SQL to:
 - Create and modify tables.
@@ -34,18 +34,18 @@ You use SQL to:
 - Query data with filters and sorting.
 - Manage users and permissions.
 
-###Popular SQL Databases (RDBMS)
+📌Popular SQL Databases (RDBMS)
 These are different systems that use SQL to manage relational databases. Each has its own features but follows similar SQL standards.
 
 System      |   	Type              	           |     Best For
 --------------------------------------------------------------------------------
-MySQL       |   	Open Source	Web apps,          |    General use
-PostgreSQL  |  	Open Source	Advanced queries,    |    Analytics
-SQLite	    |    Open Source	Lightweight,       |    Mobile apps
-SQL Server  |  	Commercial                       |    Enterprise, Windows systems
-Oracle      |  	Commercial	                     |    Large-scale enterprise apps
+MySQL       |   	Open Source	Web apps,         |    General use
+PostgreSQL  |  	Open Source	Advanced queries,  |    Analytics
+SQLite	     |    Open Source	Lightweight,      |    Mobile apps
+SQL Server  |  	Commercial                     |    Enterprise, Windows systems
+Oracle      |  	Commercial	                    |    Large-scale enterprise apps
 
-#### SQL vs Database
+📌SQL vs Database
  SQL                                  | Database 
 -------------------------------------------------------------------------------
 | A language                          | A system to store/manage data 
