@@ -39,9 +39,9 @@ These are different systems that use SQL to manage relational databases. Each ha
 
 System      |   	Type              	              |     Best For
 --------------------------------------------------------------------------------
-MySQL       |   	Open Source	Web apps,            |    General use
+MySQL       |   Open Source	Web apps,             |    General use
 PostgreSQL  |  	Open Source	Advanced queries      |    Analytics
-SQLite	     |    Open Source	Lightweight          |    Mobile apps
+SQLite	     |   Open Source	Lightweight           |    Mobile apps
 SQL Server  |  	Commercial                        |    Enterprise, Windows systems
 Oracle      |  	Commercial	                       |    Large-scale enterprise apps
 
