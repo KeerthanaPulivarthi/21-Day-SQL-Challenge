@@ -37,13 +37,13 @@ You use SQL to:
 📌Popular SQL Databases (RDBMS)
 These are different systems that use SQL to manage relational databases. Each has its own features but follows similar SQL standards.
 
-System      |   	Type              	           |     Best For
+System      |   	Type              	              |     Best For
 --------------------------------------------------------------------------------
-MySQL       |   	Open Source	Web apps,         |    General use
-PostgreSQL  |  	Open Source	Advanced queries,  |    Analytics
-SQLite	     |    Open Source	Lightweight,      |    Mobile apps
-SQL Server  |  	Commercial                     |    Enterprise, Windows systems
-Oracle      |  	Commercial	                    |    Large-scale enterprise apps
+MySQL       |   	Open Source	Web apps,            |    General use
+PostgreSQL  |  	Open Source	Advanced queries      |    Analytics
+SQLite	     |    Open Source	Lightweight          |    Mobile apps
+SQL Server  |  	Commercial                        |    Enterprise, Windows systems
+Oracle      |  	Commercial	                       |    Large-scale enterprise apps
 
 📌SQL vs Database
  SQL                                  | Database 
