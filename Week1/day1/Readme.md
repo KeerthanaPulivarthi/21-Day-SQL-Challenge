@@ -1,12 +1,16 @@
-# 📊 Day 1: MySQL Basics Practice – Fitness Tracker
-## 🚀 Goals
-- Practice creating a database and using it
-- Create a custom table `fitness_tracker`
-- Learn basic `INSERT` and `SELECT` commands
-- Practice working with `VARCHAR`, `DATE`, and `INT` data types
+**MySQL Basic Practice – 21-Day-SQL-Challenge**
+------------------------------------------------
+🏋️‍♂️ Fitness Tracker – SQL Practice
 
----
+This section demonstrates working with basic SQL commands like creating databases, tables, inserting data, and retrieving records using a sample workout tracker.
 
-## 📁 Database Used
-```sql
-USE my_pratice;
+Practice Summary:
+
+🗃️ Database created: my_pratice
+
+📋 Table created: fitness_tracker
+
+📥 Multiple records inserted
+
+🔎 Data retrieved using SELECT * from table_name;
+
