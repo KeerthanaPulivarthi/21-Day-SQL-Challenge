@@ -79,3 +79,11 @@ UPDATE Customers SET Customer_ID = 33 WHERE Age = 27;
 
 -- View updated Customers table
 SELECT * FROM Customers;
+
+--Added a CHECK constraint to ensure Amount in Orders is non-negative:
+ALTER TABLE Orders ADD CONSTRAINT ch_check CHECK (Amount >= 0);
+
+--Tried to insert an order with a negative amount
+INSERT INTO Orders(Order_ID, Customer_ID, Address, Amount) 
+VALUES (107, 6, '675 makimaki st, IL', -189.00);
+
